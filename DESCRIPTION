@@ -1,13 +1,16 @@
 Package: overleafR
 Type: Package
-Title: What the Package Does (Title Case)
+Title: R Markdown templates from overleaf template gallery
 Version: 0.1.0
-Author: Who wrote it
-Maintainer: The package maintainer <yourself@somewhere.net>
-Description: More about what it does (maybe more than one line)
-    Use four spaces when indenting paragraphs within the Description.
-License: What license is it under?
+author@R: c(
+    person("Jakob Jul", "Elben", email = "elbenjakobjul@gmail.com", role = c("aut", "cre"))
+    )
+Description: Provides a wide range of templates from overleaf customized to R Markdown
+License: MIT + file LICENSE
 Encoding: UTF-8
 LazyData: true
 URL: https://github.com/elben10/overleafR
 BugReports: https://github.com/elben10/overleafR/issues
+Imports: 
+    rmarkdown
+RoxygenNote: 6.0.1
