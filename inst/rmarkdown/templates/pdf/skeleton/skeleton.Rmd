@@ -1,0 +1,63 @@
+---
+name: "Joshua Taylor Eppinette"
+adress: "1163 West Peachtree St Ne Unit 2603"
+postcode: "Atlanta, Georgia 30309"
+phone: "\\(770) 401-6678"
+email: "josheppinette@gmail.com"
+output: overleafR::academic_cv
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# OBJECTIVE
+
+To obtain a career that will allow myself to take full advantage of my passion and experience in software engineering and development operations. 
+
+# TECHNOLOGY \ SKILLS
+
+_Programming Languages:_ Golang, Python, JavaScript.  
+_Operations Technologies:_ Digital Ocean, AWS, Google Compute Engine, Docker Swarm, Terraform, Continuous Integration, Continuous Delivery, Continuous Deployment, Ansible.  
+_Web Backend Technologies:_ Nginx, NodeJS, Django, MongoDB, PostgreSQL, MySQL, Heroku.  
+_Web Frontend Technologies:_ AngularJS, JQuery, Bootstrap3, Gulp, Bower, NodeJS.
+
+# EXPERIENCE
+
+_Software Engineer_ \hfill June 2015 - Present  
+Ionic Security Inc, Atlanta, GA
+
+- Developed and designed a large AngularJS web application.
+- Implemented and maintained multiple enterprise API authentication strategies in Golang and AngularJS.
+- Leveraged Golang's compiled nature to simplify deployments and decrease ops issues.
+- Developed and maintained the development environment used by front end software engineers.
+- Developed a distributed authentication and routing system for a SOA using Golang, Nginx, and Lua.
+- Integrated the Jenkins Continuous Integration(CI) systems into the existing deployment processes.
+- Implemented web application security standards defined by OWASP.
+
+_Software Engineer_ \hfill August 2013 - June 2015  
+Georgia Tech Research Institute, Electronic Systems Laboratory, Atlanta, GA 
+
+- Designed and developed Django/AngularJS software systems for the Department of Defense, Army, and Navy.
+- Presented software demos to Department of Defense derived clients.
+
+_Consultant, Owner_ \hfill May 2014 - Present  
+JTE Technologies, Atlanta, GA
+
+- Designed and developed large Django/AngularJS and Golang/AngularJS software systems.
+- Setup continuous deployments for multiple projects of varying technologies through GitLab CI and Docker Swarm.
+- Provisioned and maintained multiple Docker Swarm clusters using Ansible and Terraform.
+
+# COMMUNITY \ SERVICE
+
+Kennesaw Mountain Trail Club, Volunteer \hfill February 2014 - Present  
+Race Against Violence, Volunteer \hfill October 2012 - Present  
+911 Memorial Stair Climb For The Fallen Heroes,  \hfill September 2016 - Present
+Volunteer \& Climber
+
+# EXTRA-CURRICULAR \ ACTIVITIES
+
+Kappa Sigma Fraternity, President \hfill August 2014 - May 2015  
+Kappa Sigma Fraternity, Treasurer \hfill December 2013 - August 2014  
+Technology Student Association, Team Leader \hfill August 2011 - May 2012
+
